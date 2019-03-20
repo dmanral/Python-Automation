@@ -6,7 +6,7 @@ from email.message import EmailMessage  # EmailMessage is an object that makes i
 EMAIL_ADDRESS = os.environ.get('EMAIL_USER')    # Email address environment variable.
 EMAIL_PASSWORD = os.environ.get('EMAIL_PASS')   # Email password environment variable.
 
-contacts = ['dmanral@asu.edu']          # Add comma and more emails.
+contacts = ['yourcontactemail@whatever.com']          # Add comma and more emails.
 
 # Emails informations:
 msg = EmailMessage()
