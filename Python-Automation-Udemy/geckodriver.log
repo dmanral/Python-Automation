@@ -1,0 +1,20 @@
+1601204531029	geckodriver	INFO	Listening on 127.0.0.1:52884
+1601204532057	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tk/t7sgm4pj3d132knk1zys5gh80000gn/T/rust_mozprofile6VApK6"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601204534122	Marionette	INFO	Listening on port 52895
+1601204534158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601204552750	geckodriver	INFO	Listening on 127.0.0.1:52945
+1601204553770	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tk/t7sgm4pj3d132knk1zys5gh80000gn/T/rust_mozprofilerqRKRI"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601204555670	Marionette	INFO	Listening on port 52956
+1601204555719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601204560095	Marionette	INFO	Stopped listening on port 52956
+1601204583236	geckodriver	INFO	Listening on 127.0.0.1:53008
+1601204584261	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tk/t7sgm4pj3d132knk1zys5gh80000gn/T/rust_mozprofilefVaRhg"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601204586032	Marionette	INFO	Listening on port 53019
+1601204586101	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:566:5\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+1601204818277	Marionette	INFO	Stopped listening on port 53019
+1601204828287	Marionette	INFO	Stopped listening on port 52895
