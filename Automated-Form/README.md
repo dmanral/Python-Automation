@@ -3,6 +3,7 @@ Just a simple script to automate filling out a form. This is for educational pur
 
 ## Installs
 As always I would say use a virtual environment.
+
     Create virtual env:
         - virtualenv name_you_want
     Activate virtual env:
@@ -11,8 +12,10 @@ As always I would say use a virtual environment.
         - deactivate
 
 Selenium (mac os):
+
     pip install selenium
 Chromedriver (mac os):
+
     brew install chromedriver
 
 ### Special thanks to:
